@@ -1,6 +1,9 @@
 # Mental Health Chatbot 
 This project aims to provide a supportive platform leveraging AI technology to detect early signs of mental health issues and offer timely interventions or resources to promote mental well-being. The chatbot, developed using ReactJS, ViteJS, JavaScript, HTML/CSS, and integrated with the OpenAI API, serves as a confidential and accessible tool for users to engage with.
 
+## Demo
+<img src="https://github.com/ZeinMukhanov/demo/blob/main/Mental_Health_Bot_demo.gif" width="600" height="600"/>
+
 ## Features:
 - Early Detection: Utilizes advanced AI algorithms to detect subtle signs of mental health concerns through natural language processing.
 - Intelligent Responses: Offers personalized and empathetic responses tailored to the user's input, providing relevant resources and interventions.
@@ -27,5 +30,4 @@ To get started with the project, follow these steps:
 ## Put your own API Key
 Put your API key in the ```App.jsx``` file. Line 8
 
-## Demo
-<img src="https://github.com/ZeinMukhanov/demo/blob/main/Mental_Health_Bot_demo.gif" width="600" height="600"/>
+
